@@ -18,22 +18,28 @@ Checkout Times by Gender
 
 Trips by Weekday for Each Hour
 
-![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D2CheckoutTimesForUsers.png)
+![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D2TripsByWeekdayPerHour.png)
 
 Trips by Gender (Weekday per Hour)
 
+![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D2TripsByWeekdayPerHourGender.png)
 
 User Trips by Gender by Weekday
 
+![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D2UserTripsByGenderByWeekday.png)
+
 
 ### Deliverable 3
-Our published story link can be found here
+Our published story link can be found [here](https://public.tableau.com/app/profile/mihir.gokhale6414/viz/Module14Project/NYCCitiBikeAnalysis?publish=yes)
 Here we have added a couple more visualizations to help with our analysis:
 
 Gender Breakdown
 
+![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D3GenderBreakdown.png)
 
 August Peak Hours
+
+![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D3AugustPeakHours.png)
 
 ## Summary
 The main takeaway we can see from our charts is that there are the main times that people take out bikes are during the workdays when people are most likely commuting with Thursday around 5PM having the highest concentration. Additionally, with the gender breakdown we can see that Males are the highest population of users and more specifically Male subscribers. This can be due to many factors which will require more research. One reason may be that Males more commonly where pants for work attire while Females may where things that don't fully cover their legs making riding a bike more uncomfortable. It could also be that Males simply use the bikes more in general. 
