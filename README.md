@@ -10,7 +10,7 @@ We converted the data in the default [csv file] to have the trip duration as a d
 
 Checkout Times for Users
 
-![]("https://github.com/mooshak21/bikesharing/blob/main/Resources/D2CheckoutTimesForUsers.png")
+![](https://github.com/mooshak21/bikesharing/blob/main/Resources/D2CheckoutTimesForUsers.png)
 
 Checkout Times by Gender
 
