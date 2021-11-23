@@ -30,7 +30,7 @@ User Trips by Gender by Weekday
 
 
 ### Deliverable 3
-Our published story link can be found [here](https://public.tableau.com/app/profile/mihir.gokhale6414/viz/Module14Project/NYCCitiBikeAnalysis?publish=yes)
+Published story [link to dashboard](https://public.tableau.com/app/profile/mihir.gokhale6414/viz/Module14Project/NYCCitiBikeAnalysis?publish=yes)
 Here we have added a couple more visualizations to help with our analysis:
 
 Gender Breakdown
