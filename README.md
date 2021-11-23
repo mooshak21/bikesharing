@@ -4,7 +4,7 @@ For this analysis, we are using Citi Bike data from NYC to gain an understanding
 ## Results
 ### Deliverable 1
 
-We converted the data in the default Jupyter Notebook file to have the trip duration as a datetime element with correct time format. The updated code can be found [here]("https://github.com/mooshak21/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb").
+We converted the data in the default Jupyter Notebook file to have the trip duration as a datetime element with correct time format. The updated code can be found [here](https://github.com/mooshak21/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb).
 
 ### Deliverable 2
 
